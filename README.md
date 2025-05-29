@@ -2,8 +2,8 @@
 안녕하세요! 프론트엔드 개발자를 꿈꾸는 박상아입니다.  
 혼자서도 꾸준히 학습하고, 스스로 성장하는 개발자가 되는 것이 목표입니다. ✨
 
-📫 E-mail : psa2129@naver.com
-📫 Blog : https://m.blog.naver.com/ivory2129
+- 📫 E-mail : psa2129@naver.com
+- 📫 Blog : https://m.blog.naver.com/ivory2129
 
 ## 🌱 Skills 
 > 한 번 이상 다루어 본 기술들
