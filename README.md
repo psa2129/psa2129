@@ -3,7 +3,7 @@
 혼자서도 꾸준히 학습하고, 스스로 성장하는 개발자가 되는 것이 목표입니다. ✨
 
 - 📫 E-mail : psa2129@naver.com
-- 📫 Blog : https://m.blog.naver.com/ivory2129
+- 📫 Blog : https://psa2129.tistory.com/
 
 ## 🌱 Skills 
 > 한 번 이상 다루어 본 기술들
