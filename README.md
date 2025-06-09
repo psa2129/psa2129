@@ -7,11 +7,10 @@
 
 ## 🌱 Skills 
 > 한 번 이상 다루어 본 기술들
-- **Language**: JavaScript(ES6+), TypeScript
-- **Frontend**: Next.js, Tailwind CSS
-- **Async / API**: TanStack Query, Axios, REST API
+- **Language**: HTML, CSS, JavaScript(ES6+), TypeScript, R, Phython
+- 시각화 : Tableau
+- **Frontend**: Vue.js, Tailwind CSS
 - **Version Control**: Git, GitHub
-- **Deployment**: Vercel, GitHub Pages
 
 ## 🌱 Projects
 - 웹페이지 제작
@@ -61,7 +60,7 @@
 
 ## 대외활동 및 경력
 - 해커스 프론트엔드 부트캠프 2기(2025.2)
-- [데이터리터러시와 AI] 수업 조교(2025.3 ~ )
+- [데이터리터러시와 AI] 수업 조교(2025.3 ~ 2025.6 )
 
 ## 🔭 목표와 성장 방향
 - React/Next 기반으로 더욱 구조적인 프로젝트 설계 능력 키우기
