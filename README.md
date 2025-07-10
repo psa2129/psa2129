@@ -8,30 +8,13 @@
 ## 🌱 Skills 
 > 한 번 이상 다루어 본 기술들
 - **Language**: HTML, CSS, JavaScript(ES6+), TypeScript, R, Phython
-- 시각화 : Tableau
 - **Frontend**: Vue.js, Tailwind CSS
 - **Version Control**: Git, GitHub
+- 시각화 : Tableau
 
 ## 🌱 Projects
-- 웹페이지 제작
+- 쇼핑몰 메인 웹페이지 제작(2023.11)
 - RPA 프로세스(2024.12)
-> 📌 [My Daily Todo] : 간단한 할 일 목록을 관리할 수 있는 생산성 앱  
-- React + TypeScript + Zustand로 개발  
-- 로컬 스토리지로 데이터 저장  
-- 날짜별 보기 및 체크 기능 구현  
-- GitHub Pages로 배포
-
-> 📌 [Style Book] : 나만의 패션 스타일링을 기록하는 이미지 기반 아카이브  
-- Next.js + TailwindCSS 기반  
-- 이미지 업로드 및 태그 필터링 기능  
-- 반응형 레이아웃 구현  
-- 사용자 편의 중심 UI 설계
-
-> 📌 [뮤직플레이 (MusicPlay)] : 음악 검색 및 샘플 플레이가 가능한 뮤직 검색 앱  
-- Deezer API 연동 (음악 검색 및 재생)  
-- TanStack Query로 비동기 상태 관리  
-- 무한 스크롤 및 검색 기능 구현  
-- 모바일 환경에서도 최적화된 반응형 UI
 
 ## 🌱 Education
 > 동아대학교 경영정보학과(2022.3 ~ )
@@ -48,7 +31,7 @@
 - 디지털비즈니스모델
 - 경영혁신과 RPA
 - MIS
-- 유통/판메 데이터분석(종합설계)
+- 유통/판매 데이터분석(종합설계)
 - 시스템분석 및 설계
 
 ## 🌱 Stdudy
