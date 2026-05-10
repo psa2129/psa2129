@@ -10,7 +10,7 @@
 - **Language**: HTML, CSS, JavaScript(ES6+), TypeScript, R, Phython
 - **Frontend**: Vue.js, Tailwind CSS
 - **Version Control**: Git, GitHub
-- 시각화 : Tableau
+- **시각화** : Tableau
 
 ## 🌱 Projects
 - 쇼핑몰 메인 웹페이지 제작(2023.11)
@@ -18,7 +18,7 @@
 - 썸트렌드로 분석하는 불닭볶음면의 트렌드(2024.12)
 
 ## 🌱 Education
-> 경영정보학과(2022.3 ~ )
+> 경영정보학과(2022.03 ~ 2026.02)
 - 프로그래밍기초
 - R기반 통계분석
 - 데이터사이언스개론
